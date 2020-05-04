@@ -1,0 +1,25 @@
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="tryout ">
+
+ 
+
+
+
+	<test name="base">
+		<classes>
+			<class name="testinggit.NewTest"></class>
+		</classes>
+	</test>
+
+
+
+
+
+</suite>
+
+  
+
